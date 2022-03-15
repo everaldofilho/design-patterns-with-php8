@@ -3,6 +3,8 @@
 
 ## Patterns
 
+Ref.: https://refactoring.guru/pt-br/design-patterns/catalog
+
 - [ ] Padrões criacionais
     - [ ] Factory Method
     - [ ] Abstract Factory
