@@ -8,7 +8,7 @@
     - [ ] Abstract Factory
     - [ ] Builder
     - [ ] Prototype
-    - [ ] Singleton (Ant)
+    - [x] Singleton (Ant)
 
 - [ ] Padrões estruturais
     - [ ] Adapter

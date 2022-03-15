@@ -1,6 +1,10 @@
 {
     "name": "everaldo/design-patterns-with-php8",
     "autoload": {
+        "classmap": [
+            "src/",
+            "tests/"
+        ],
         "psr-4": {
             "Patterns\\": "src/"
         }
